@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1088" measuredH="573" mockupW="1061" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1148" measuredH="573" mockupW="1121" mockupH="573">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="519" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -30,9 +30,9 @@
         <text>Time%2C%20Alarm%2C%20Stop%20Watch%2C%20Game</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="816" y="152" w="272" h="145" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="816" y="152" w="332" h="195" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Interval%20is%20nothing%20but%20alarm%20with%20time%20interval%0AInstead%20of%20setting%20alarm%20at%20a%20particular%20time%2C%20we%20can%20provide%20option%20of%20ringing%20alarm%20after%203%20hours%2015%20mins%0A%20%0ACan%20add%20multiple%20alarms%0A%20%0ASmall%20text%20with%20each%20alarm</text>
+        <text>Interval%20is%20nothing%20but%20alarm%20with%20time%20interval%0AInstead%20of%20setting%20alarm%20at%20a%20particular%20time%2C%20we%20can%20provide%20option%20of%20ringing%20alarm%20after%203%20hours%2015%20mins%0A%20%0ACan%20add%20multiple%20alarms%0A%20%0ASmall%20text%20with%20each%20alarm%0Acommon%20alarm%20as%20well%20as%20customizable%20sound%20with%20each%20alarm</text>
       </controlProperties>
     </control>
   </controls>
