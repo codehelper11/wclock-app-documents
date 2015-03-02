@@ -35,7 +35,7 @@
         <text>Time%2C%20Alarm%2C%20Stop%20Watch%2C%20Game</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="644" y="167" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="622" y="137" w="77" h="72" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
@@ -45,7 +45,7 @@
         <text>I%20am%20the%20default%20clock%0AWould%20be%20big%2C%2025%25%20approx%20space%0ANumbered%0AIn%2024%20hour%20format%2C%20two%20rounds%20of%20numbers%20would%20be%20there.%20Before%2012pm%2C%201-12%20would%20be%20bold%2C%20after%2012pm%2C%2013-24%20would%20be%20bold.%20And%20a%20little%20bigger%20may%20be.%20</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="691" y="69" w="191" h="106" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="699" y="83" w="174" h="73" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>bottom</direction>
         <text/>
@@ -65,14 +65,19 @@
         <text>Day%2C%20Date%20%26%20Time%20%28yes%2C%20digital%20time%20as%20well%29</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Arrow" x="707" y="190" w="190" h="30" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Arrow" x="707" y="179" w="190" h="30" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <curvature>1</curvature>
       </controlProperties>
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="905" y="199" w="235" h="127" measuredW="109" measuredH="123" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>A%20circle%20of%20numbers</text>
+        <text>A%20circle%20of%20numbers%0ACountry%20in%20the%20middle</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::StickyNote" x="64" y="245" w="455" h="207" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Selecting%20the%20clock%20would%20pop%20it%20up%20a%20bit%0APoped%20up%20clock%27s%20hour%20hand%20and%20minute%20hand%20would%20start%20blinking%20with%20small%20arrows%20around%20their%20tips%20to%20give%20the%20idea%20that%20they%20are%20movable...%0AChanging%20the%20time%20of%20any%20of%20the%20clock%20would%20adjust%20the%20time%20of%20all%20other%20clocks%20accordingly%0AAll%20clocks%20would%20keep%20on%20blinking%20or%20may%20b%20the%20background%20would%20start%20blinking%20to%20show%20that%20the%20current%20time%20the%20modified%20temperary%20time%0AA%20small%20reset%20button%20would%20appear%20on%20the%20bottom%20of%20the%20screen%2C%20as%20soon%20as%20the%20time%20is%20modified</text>
       </controlProperties>
     </control>
   </controls>
